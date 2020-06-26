@@ -1,5 +1,5 @@
 import arcade
-from .windows.menu import Menu
+from windows.menu import Menu
 
 
 def main():
