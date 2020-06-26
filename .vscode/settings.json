@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\wolny\\.virtualenvs\\TacticsMaster-0XFBJAOX\\Scripts\\python.exe",
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.rulers": [79],
+}
